@@ -1,0 +1,239 @@
+File Manifest for ICPSR 36117
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: County-Level Detailed Arrest and
+Offense Data, United States, 2013. ICPSR36117-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2017-09-12. http://doi.org/10.3886/ICPSR36117.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-descriptioncitation.pdf       -       -         -       2018-05-25  -
+
+    36117-related_literature.txt        -       -         -       daily       -
+
+    36117-manifest.txt                  -       -         -       daily       -
+
+    36117-Codebook.pdf                  -       -         -       2017-09-12  41e100a5c372215b180060c07ffa74fc
+
+
+DS0001 Arrests, All Ages
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0001-Data.dta                 -       3,177     56      2017-09-12  a39d023d0e2cabfe32e6635e6f3a5904
+
+    36117-0001-Data.rda                 -       3,177     56      2017-09-12  388703847a9089495cc02e1aeaa87f2b
+
+    36117-0001-Data.sav                 -       3,177     56      2017-09-12  436d84c7e1cbfbf84c3924b509d39952
+
+    36117-0001-Data.stc                 -       3,177     56      2017-09-12  aa1c772b242c67719fa48c6bfa74fc55
+
+    36117-0001-Data.tsv                 -       3,177     56      2017-09-12  0aae72eedf72a76a2871b8470399998a
+
+    36117-0001-Data.txt                 246     3,177     56      2017-09-12  36d9dfa59aad0b30c222082f6dda2845
+
+    36117-0001-Setup.dct                -       -         -       2017-09-12  70273cc84d8d1052b9fcf0c9b3beeca9
+
+    36117-0001-Setup.do                 -       -         -       2017-09-12  63114ed2d68df75edcaf2e978ed32a63
+
+    36117-0001-Setup.sas                -       -         -       2017-09-12  14d32684908bd44bc3b2754f9048add8
+
+    36117-0001-Setup.sps                -       -         -       2017-09-12  ed2619b519e855cdba7274ec734064f3
+
+
+DS0002 Arrests, Adult
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0002-Data.dta                 -       3,177     56      2017-09-12  d002c1fd518602c455ec4c0415d70212
+
+    36117-0002-Data.rda                 -       3,177     56      2017-09-12  a1946fb4723ed5025d5f556f3eb7e022
+
+    36117-0002-Data.sav                 -       3,177     56      2017-09-12  5283cf6cb2a421d4ecf746b2fd350835
+
+    36117-0002-Data.stc                 -       3,177     56      2017-09-12  79b7b669ae79237b3e8eccad6c1cf726
+
+    36117-0002-Data.tsv                 -       3,177     56      2017-09-12  c8b25528b364a40972f3abae6a36f303
+
+    36117-0002-Data.txt                 246     3,177     56      2017-09-12  7d5b727e5256546364fde78d31ba1c8e
+
+    36117-0002-Setup.dct                -       -         -       2017-09-12  9a4a7f361c9299ad620b756a19048ae6
+
+    36117-0002-Setup.do                 -       -         -       2017-09-12  06580f74793ce5d9838d10405b090624
+
+    36117-0002-Setup.sas                -       -         -       2017-09-12  a1767c1702b93548c8146336c2478280
+
+    36117-0002-Setup.sps                -       -         -       2017-09-12  a5a269460681bf74a4da3d06db193e29
+
+
+DS0003 Arrests, Juveniles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0003-Data.dta                 -       3,177     56      2017-09-12  097a92ac769777bb8d05789ff60e52bb
+
+    36117-0003-Data.rda                 -       3,177     56      2017-09-12  e047f07435e27fb3346d1fafd167b301
+
+    36117-0003-Data.sav                 -       3,177     56      2017-09-12  e0baaea93499d922512ebe8087b148e8
+
+    36117-0003-Data.stc                 -       3,177     56      2017-09-12  6c70feac3517c26cca6f1257c77e3d3f
+
+    36117-0003-Data.tsv                 -       3,177     56      2017-09-12  19ee7ab0a23c17391a8e1a6536d9e117
+
+    36117-0003-Data.txt                 246     3,177     56      2017-09-12  234b802ee4d3f10f3e92bac199cd6afa
+
+    36117-0003-Setup.dct                -       -         -       2017-09-12  f956fdba3666dd7ddda6c690b4534ad1
+
+    36117-0003-Setup.do                 -       -         -       2017-09-12  07b87d1d32992ec13054f8d4472ad06e
+
+    36117-0003-Setup.sas                -       -         -       2017-09-12  6bca995b1c5d8adc183388af16047b44
+
+    36117-0003-Setup.sps                -       -         -       2017-09-12  62d46676670a28af600dd90aea8247be
+
+
+DS0004 Crimes Reported
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0004-Data.dta                 -       3,177     21      2016-08-22  ae129c686e06241bd0dd22095cb463c6
+
+    36117-0004-Data.rda                 -       3,177     21      2016-08-22  eba262d6f1ff00c7b3e83a3bf6fcee2a
+
+    36117-0004-Data.sav                 -       3,177     21      2016-08-22  150167c8f8cc6f3aa5ae904514a4794e
+
+    36117-0004-Data.stc                 -       3,177     21      2016-08-22  204142d9ff5b700976ce2a878a64a76b
+
+    36117-0004-Data.tsv                 -       3,177     21      2016-08-22  e702377fe455eb5cf9d14df104971b93
+
+    36117-0004-Data.txt                 97      3,177     21      2016-08-22  6bcb2f9d83c30c2d15f259e26e1782b1
+
+    36117-0004-Setup.dct                -       -         -       2016-08-22  dc88e4cc11d789cc6c84c022ddc6d6ac
+
+    36117-0004-Setup.do                 -       -         -       2016-08-22  95c50c299ea253e31f7c774dafc244b5
+
+    36117-0004-Setup.sas                -       -         -       2016-08-22  5c0f174915a8ba7d0b350030eccb8f83
+
+    36117-0004-Setup.sps                -       -         -       2016-08-22  c68c1a281fe80711fb96418fb8f9e571
+
+
+DS0005 Allocated Statewide Data for Arrests, All Ages
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0005-Data.dta                 -       3,177     57      2017-09-12  4cf607033f11c1063b209b6ea8775dc4
+
+    36117-0005-Data.rda                 -       3,177     57      2017-09-12  7b252a01a0a28de4781615cb1319e34b
+
+    36117-0005-Data.sav                 -       3,177     57      2017-09-12  01cf5c11bc2dc0ea7d1825bf22f5fba3
+
+    36117-0005-Data.stc                 -       3,177     57      2017-09-12  f17573fd3e97282f5c646b70168fd6fc
+
+    36117-0005-Data.tsv                 -       3,177     57      2017-09-12  1c6148ff9890e8fc479073b903cd8303
+
+    36117-0005-Data.txt                 250     3,177     57      2017-09-12  54f914e54dbd6c79691142652ab68fb7
+
+    36117-0005-Setup.dct                -       -         -       2017-09-12  708d5970f9e48fa455612d6eb74a8456
+
+    36117-0005-Setup.do                 -       -         -       2017-09-12  ad0c0f02c6b5fd2561327e3893230601
+
+    36117-0005-Setup.sas                -       -         -       2017-09-12  e582d95b66406da3f52dbea2fb494f57
+
+    36117-0005-Setup.sps                -       -         -       2017-09-12  9de7170fff075ac0aad0dcfc6b4b5756
+
+
+DS0006 Allocated Statewide Data for Arrests, Adults
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0006-Data.dta                 -       3,177     57      2017-09-12  162a0f2af44c44e23246a207ac424981
+
+    36117-0006-Data.rda                 -       3,177     57      2017-09-12  754fc288c36fda0f62c6ecec581ea6d6
+
+    36117-0006-Data.sav                 -       3,177     57      2017-09-12  e39457c3f6703fa64d5fe3075a5fd0c3
+
+    36117-0006-Data.stc                 -       3,177     57      2017-09-12  75bcb928486874f48795a98e00d14f77
+
+    36117-0006-Data.tsv                 -       3,177     57      2017-09-12  29670e070f3d2039b43b17a7ca7cb479
+
+    36117-0006-Data.txt                 250     3,177     57      2017-09-12  68312716a2b92f97d0f8ac5e05ffd7b8
+
+    36117-0006-Setup.dct                -       -         -       2017-09-12  03c4be48b3ae1a458aa9fdb0d8077812
+
+    36117-0006-Setup.do                 -       -         -       2017-09-12  964bf98b738c6c2d41572253a098686d
+
+    36117-0006-Setup.sas                -       -         -       2017-09-12  ce25c3eae368938e5c462a1410095845
+
+    36117-0006-Setup.sps                -       -         -       2017-09-12  62225fbb36bb11724d07bb05ff87f0a1
+
+
+DS0007 Allocated Statewide Data for Arrests, Juveniles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0007-Data.dta                 -       3,177     57      2017-09-12  00e735ac4c12f61cf4ff7ca9a0a90bd8
+
+    36117-0007-Data.rda                 -       3,177     57      2017-09-12  93d40eb5434388b59d528e7c61ab2266
+
+    36117-0007-Data.sav                 -       3,177     57      2017-09-12  efe37ddb87545927a895bb4765d0fdd2
+
+    36117-0007-Data.stc                 -       3,177     57      2017-09-12  2d78657f0b43700d1a126228e08632e6
+
+    36117-0007-Data.tsv                 -       3,177     57      2017-09-12  f8602e298fc6d489f3fa10d794e5f0c3
+
+    36117-0007-Data.txt                 250     3,177     57      2017-09-12  8c4caf1b377df24a26a33c25c247e3f6
+
+    36117-0007-Setup.dct                -       -         -       2017-09-12  bb1ad9015ad27e33d9565bfafeeeb783
+
+    36117-0007-Setup.do                 -       -         -       2017-09-12  e445f919cd77c5a8926b1e21f1f25937
+
+    36117-0007-Setup.sas                -       -         -       2017-09-12  bef369bfdeedd332c296a99ea8ede278
+
+    36117-0007-Setup.sps                -       -         -       2017-09-12  c16c07f34003ac0f9b4f95a41ededda3
+
+
+DS0008 Allocated Statewide Data for Crimes Reported
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36117-0008-Data.dta                 -       3,177     22      2016-08-22  f67185d6d2b305609236550f122325bc
+
+    36117-0008-Data.rda                 -       3,177     22      2016-08-22  29bb4c65584c796e14b3f381c2d55189
+
+    36117-0008-Data.sav                 -       3,177     22      2016-08-22  3c59554bfbb3d63ee23a288baf36e009
+
+    36117-0008-Data.stc                 -       3,177     22      2016-08-22  b49f7771b271132281d89507282be246
+
+    36117-0008-Data.tsv                 -       3,177     22      2016-08-22  a1de8289851f461895f8033d01b4baa6
+
+    36117-0008-Data.txt                 105     3,177     22      2016-08-22  74476398110facb25f0c1576ac2ff2bc
+
+    36117-0008-Setup.dct                -       -         -       2016-08-22  e19bb69c7d7c6f6ecc2f049884c5f092
+
+    36117-0008-Setup.do                 -       -         -       2016-08-22  2108faafd4420d66d7d82b178be8368b
+
+    36117-0008-Setup.sas                -       -         -       2016-08-22  644bbe8ecda703097b61a40f9f5ee694
+
+    36117-0008-Setup.sps                -       -         -       2016-08-22  fd0e0c2d8dc6a775c36815ada7eb728f
+
+
+Version History
+
+2017-09-12 Arrest data for the counties of Bronx, Kings, New York, Queens,
+and Richmond in the state of New York are blanked by ICPSR due to
+discrepancies in the original data.  2016-12-14 Arrest data for Carroll
+County in Indiana and Monroe County in Mississippi are updated.
