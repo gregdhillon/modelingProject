@@ -1,0 +1,237 @@
+File Manifest for ICPSR 34582
+
+United States Department of Justice. Office of Justice Programs. Federal
+Bureau of Investigation. Uniform Crime Reporting Program Data: County-Level
+Detailed Arrest and Offense Data, United States, 2011. ICPSR34582-v2. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2014-06-13. http://doi.org/10.3886/ICPSR34582.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-descriptioncitation.pdf       -       -         -       2018-05-25  -
+
+    34582-related_literature.txt        -       -         -       daily       -
+
+    34582-manifest.txt                  -       -         -       daily       -
+
+    34582-Codebook.pdf                  -       -         -       2014-06-13  6ac072998062fac0b1081306af5db971
+
+
+DS0001 Arrests, All Ages
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0001-Data.dta                 -       3,178     56      2014-06-13  2b481b1d8c68bdc0889ec622739b0bd1
+
+    34582-0001-Data.rda                 -       3,178     56      2014-06-13  6f7e8c6ded39795620a73d05480098b8
+
+    34582-0001-Data.sav                 -       3,178     56      2014-06-13  1deb2b3f7522865b46e16bec70d5727a
+
+    34582-0001-Data.stc                 -       3,178     56      2014-06-13  47b44b3e07b4d153d0c29e83b1d779cd
+
+    34582-0001-Data.tsv                 -       3,178     56      2014-06-13  5f07a2abaaad4781aefb77a1b87b5907
+
+    34582-0001-Data.txt                 246     3,178     56      2014-06-13  49e36f70191e563eb1c60f34a1577d15
+
+    34582-0001-Setup.dct                -       -         -       2014-06-13  b0c74e9e09dccb1f0e0ca4cb7b9fdafd
+
+    34582-0001-Setup.do                 -       -         -       2014-06-13  86cd6cecc317c05a0664b1ace469dfcf
+
+    34582-0001-Setup.sas                -       -         -       2014-06-13  00f4680231a64574e9f16c8ec3be61bc
+
+    34582-0001-Setup.sps                -       -         -       2014-06-13  72df02a8e0c1cc77014077994644145d
+
+
+DS0002 Arrests, Adult
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0002-Data.dta                 -       3,178     56      2014-06-13  614b68697b2096e4eb4f45e423274672
+
+    34582-0002-Data.rda                 -       3,178     56      2014-06-13  0bfafe6427b6ae35c36cd15a832c4ed7
+
+    34582-0002-Data.sav                 -       3,178     56      2014-06-13  c471fb26f533b46110ea3ae3fdb61c89
+
+    34582-0002-Data.stc                 -       3,178     56      2014-06-13  148b2bf05dafa21e7956ec6aaddad4b6
+
+    34582-0002-Data.tsv                 -       3,178     56      2014-06-13  fc5439e1a57fea8c0ea41a0f4e82d4ca
+
+    34582-0002-Data.txt                 246     3,178     56      2014-06-13  5966076af6b87f5146c5e3442625fdf4
+
+    34582-0002-Setup.dct                -       -         -       2014-06-13  afb2ccc45aa7e6d1a007ca4550ea4425
+
+    34582-0002-Setup.do                 -       -         -       2014-06-13  8819fc60abd66951552e0d8310376850
+
+    34582-0002-Setup.sas                -       -         -       2014-06-13  3a087b1804cfe7e163f375da3eaf8298
+
+    34582-0002-Setup.sps                -       -         -       2014-06-13  3bb80a13c2e4c638e1785c3c35020ebe
+
+
+DS0003 Arrests, Juveniles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0003-Data.dta                 -       3,178     56      2014-06-13  7ef6ec5f5c89fd48d877ed8c64e1c64f
+
+    34582-0003-Data.rda                 -       3,178     56      2014-06-13  668ab8b8d98a5603c13d3d5aa995b73b
+
+    34582-0003-Data.sav                 -       3,178     56      2014-06-13  e4fb58aeeb15539a8446d1d2780087a4
+
+    34582-0003-Data.stc                 -       3,178     56      2014-06-13  376cf2a4bb4699a5931224a00c761824
+
+    34582-0003-Data.tsv                 -       3,178     56      2014-06-13  ea87c628e4fc25bfe5161ca957c49c8a
+
+    34582-0003-Data.txt                 246     3,178     56      2014-06-13  c7b2a99dabdec4a710df78900138f1e6
+
+    34582-0003-Setup.dct                -       -         -       2014-06-13  07540f31ec64fa569b25bccc88800121
+
+    34582-0003-Setup.do                 -       -         -       2014-06-13  bcc6f15487ff20ae5614c8a893064723
+
+    34582-0003-Setup.sas                -       -         -       2014-06-13  1a3fa5fd8a4910f243c4986b09fa93a0
+
+    34582-0003-Setup.sps                -       -         -       2014-06-13  1b927038bc559caae6cb9ff3898b9b2b
+
+
+DS0004 Crimes Reported
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0004-Data.dta                 -       3,178     21      2014-06-13  b6ed25410f597bcee71a0260a37e54b1
+
+    34582-0004-Data.rda                 -       3,178     21      2014-06-13  4e15980b52157e5ee41f17acbca914ea
+
+    34582-0004-Data.sav                 -       3,178     21      2014-06-13  9e705e309f93089086fedd6846b27439
+
+    34582-0004-Data.stc                 -       3,178     21      2014-06-13  4f3ee1ca788dbd59ad39757511d8d211
+
+    34582-0004-Data.tsv                 -       3,178     21      2014-06-13  387562825c3562af9f52a2e7ea9e69e8
+
+    34582-0004-Data.txt                 97      3,178     21      2014-06-13  63bed8a0575df8465a46fcb0e41a5737
+
+    34582-0004-Setup.dct                -       -         -       2014-06-13  f5ff3b68245f050c50fae32ada212330
+
+    34582-0004-Setup.do                 -       -         -       2014-06-13  0bfe0e6d9f8ef688a0a59efcc30e7c49
+
+    34582-0004-Setup.sas                -       -         -       2014-06-13  5bcbc9ef302990390e467fd7db813e10
+
+    34582-0004-Setup.sps                -       -         -       2014-06-13  386babe6a9ef8ed9a17be5ae85567afa
+
+
+DS0005 Allocated Statewide Data for Arrests, All Ages
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0005-Data.dta                 -       3,178     57      2014-06-13  3e39334c0100718e2aa19542ad64e87a
+
+    34582-0005-Data.rda                 -       3,178     57      2014-06-13  4c544922f3c18c0dc7e29514f5a31bc8
+
+    34582-0005-Data.sav                 -       3,178     57      2014-06-13  cef54a2924cfc4e9414b9518004ad697
+
+    34582-0005-Data.stc                 -       3,178     57      2014-06-13  caf4ef17fc172157390f4aeacf204d52
+
+    34582-0005-Data.tsv                 -       3,178     57      2014-06-13  2e8f711027f9c199e9f8d0f7db61a80f
+
+    34582-0005-Data.txt                 250     3,178     57      2014-06-13  9915bb6bfcb4bf240c8a92d0d66c3925
+
+    34582-0005-Setup.dct                -       -         -       2014-06-13  cabccf45c3dab0a2f070f8f2a5f0e0b7
+
+    34582-0005-Setup.do                 -       -         -       2014-06-13  f4ef1f0e4847dd6811c622d1b0ff5b66
+
+    34582-0005-Setup.sas                -       -         -       2014-06-13  2eba140458ae755453d310ac224ce7b9
+
+    34582-0005-Setup.sps                -       -         -       2014-06-13  6b07fb82d8d253e15fbb6add00fc562d
+
+
+DS0006 Allocated Statewide Data for Arrests, Adults
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0006-Data.dta                 -       3,178     57      2014-06-13  6e937366bf007e8db2289448223154fc
+
+    34582-0006-Data.rda                 -       3,178     57      2014-06-13  5fb3aab14d14ffa66354d3729751081e
+
+    34582-0006-Data.sav                 -       3,178     57      2014-06-13  67c5dd627e31def3fa7f7151eca5d58d
+
+    34582-0006-Data.stc                 -       3,178     57      2014-06-13  4ccf1823f1d5d58111a373773b79fb3c
+
+    34582-0006-Data.tsv                 -       3,178     57      2014-06-13  20f119147aad69f3ada8404339cfdd16
+
+    34582-0006-Data.txt                 250     3,178     57      2014-06-13  d5b672e3b68e654fd7c70954e40c8495
+
+    34582-0006-Setup.dct                -       -         -       2014-06-13  ad6ea6d9f5d0615284f0dcf0a01cf62b
+
+    34582-0006-Setup.do                 -       -         -       2014-06-13  568bf04b9bd9d7162a913c99cf2abfae
+
+    34582-0006-Setup.sas                -       -         -       2014-06-13  7ade439bc95badcc8cb8fb2f9aa1be2a
+
+    34582-0006-Setup.sps                -       -         -       2014-06-13  589e469da67c7d616948cb7f277220b4
+
+
+DS0007 Allocated Statewide Data for Arrests, Juveniles
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0007-Data.dta                 -       3,178     57      2014-06-13  20d56e5eca40ca9710db505b3804a132
+
+    34582-0007-Data.rda                 -       3,178     57      2014-06-13  858ffa5155eb301515aee0d8c4215710
+
+    34582-0007-Data.sav                 -       3,178     57      2014-06-13  85ae5c1cd6f1e2492192417604841fa9
+
+    34582-0007-Data.stc                 -       3,178     57      2014-06-13  4b6159c3cf836e69104099b116e311ff
+
+    34582-0007-Data.tsv                 -       3,178     57      2014-06-13  a6432635a435bc89bed9f2993515512f
+
+    34582-0007-Data.txt                 250     3,178     57      2014-06-13  06cc45264ed1316bd0551ae858212d76
+
+    34582-0007-Setup.dct                -       -         -       2014-06-13  c263e6aa228a00bb33d2d59ce500c8a8
+
+    34582-0007-Setup.do                 -       -         -       2014-06-13  cc3cc0f38315186a675135a1b5ed6ae8
+
+    34582-0007-Setup.sas                -       -         -       2014-06-13  d0189f006543ab82fb487a4f733a79e1
+
+    34582-0007-Setup.sps                -       -         -       2014-06-13  947e2afcc86e6049e28df5b7f2987fe7
+
+
+DS0008 Allocated Statewide Data for Crimes Reported
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34582-0008-Data.dta                 -       3,178     22      2014-06-13  d439d6d8703433d91928c689e720183c
+
+    34582-0008-Data.rda                 -       3,178     22      2014-06-13  28ffcc0485a5d8a63a4a85fdc2e41356
+
+    34582-0008-Data.sav                 -       3,178     22      2014-06-13  655095b3725d2ae3be7b5d672c9bc115
+
+    34582-0008-Data.stc                 -       3,178     22      2014-06-13  9650aa645ef12cf44f43d06340be7c29
+
+    34582-0008-Data.tsv                 -       3,178     22      2014-06-13  ba3408c9b3b416d7b45299d85c4fc540
+
+    34582-0008-Data.txt                 104     3,178     22      2014-06-13  bef459052d22961d42a9528f86e41633
+
+    34582-0008-Setup.dct                -       -         -       2014-06-13  33b7e9e116315c304d28738cf7f6d8a9
+
+    34582-0008-Setup.do                 -       -         -       2014-06-13  5eba64e86a2cd629931432d773448b37
+
+    34582-0008-Setup.sas                -       -         -       2014-06-13  0d329211fa68bdc827b568aacc40fb1c
+
+    34582-0008-Setup.sps                -       -         -       2014-06-13  9a028a1cdef9b52fd42f7008d4d49076
+
+
+Version History
+
+2014-06-13 Data are modified for the counties of Bronx, Kings, New York,
+Queens, and Richmond in the state of New York.
